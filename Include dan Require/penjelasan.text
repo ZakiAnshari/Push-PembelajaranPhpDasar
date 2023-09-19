@@ -1,0 +1,6 @@
+
+* Include dan require adalah cara untuk menyisipkan file ke dalam file php
+    manfaat nya adalah kita bisa menggunakan resourse dari file lain sehingga tidak perlu mengetik berkali kali
+    contoh header di beberapa halaman dan footer , kalau mau mengedit hanya cuman sekali saja terus di panggil , kalau ada yang di ubah cukup ubah satu file saja.
+
+#Include Require fungsi nya sama
